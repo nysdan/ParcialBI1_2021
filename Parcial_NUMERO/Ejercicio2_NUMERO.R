@@ -1,9 +1,6 @@
 # Parcial Bioinformática 1 2021
-
-
-# Ejercicio 2 -------------------------------------------------------------
-
-# Análisis de la secuencia en R: Utilice RStudio
+# Ejercicio 2: 20 puntos
+# Análisis de la secuencias en R: Utilice RStudio
 
 
 # Pregunta 2.a ------------------------------------------------------------
