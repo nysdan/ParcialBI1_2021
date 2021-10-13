@@ -4,13 +4,13 @@
 
 # Utiliza la terminal de la Jupyter Notebook
 
-a.	Describa la serie de pasos seguidos para llegar desde la carpeta HOME hasta la carpeta donde se encuentra el archivo bicho.fasta
+a.	Describe la serie de pasos seguidos para llegar desde la carpeta HOME hasta la carpeta donde se encuentra el archivo bicho.fasta. (2 puntos)
 
 # Respuesta
 
 
 
-b.	Use los comandos adecuados para obtener los primeros 3 headers del archivo bicho.fasta. Describir cada paso, fundamentándolo.
+b.	Usa los comandos adecuados para obtener los primeros 3 headers del archivo descomprimido. Describe cada paso, fundamentándolo. (5 puntos)
 
 # Respuesta
 
