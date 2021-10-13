@@ -1,0 +1,16 @@
+# Parcial Bioinformática 1 2021
+
+## Ejercicio 1
+
+# Utiliza la terminal de la Jupyter Notebook
+
+a.	Describa la serie de pasos seguidos para llegar desde la carpeta HOME hasta la carpeta donde se encuentra el archivo bicho.fasta
+
+# Respuesta
+
+
+
+b.	Use los comandos adecuados para obtener los primeros 3 headers del archivo bicho.fasta. Describir cada paso, fundamentándolo.
+
+# Respuesta
+
