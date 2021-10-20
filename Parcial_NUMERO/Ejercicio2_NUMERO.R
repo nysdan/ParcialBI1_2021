@@ -1,14 +1,11 @@
 # Parcial Bioinformática 1 2021
-<<<<<<< HEAD
-
 
 # Ejercicio 2 -------------------------------------------------------------
 
 # Análisis de la secuencia en R: Utiliza RStudio
-=======
+
 # Ejercicio 2: 20 puntos
 # Análisis de la secuencias en R: Utilice RStudio
->>>>>>> a137ac6366dfcdd32a84fbe4a77432066f2f52b8
 
 
 # Pregunta 2.a ------------------------------------------------------------
@@ -35,28 +32,28 @@
 
 # Pregunta 2.d ------------------------------------------------------------
 
-# d.	Construye un vector con los largos de todas las secuencias. Describe los comandos utilizados. (5 puntos)
+# Construye un vector con los contenidos GC de todas las secuencias. Describe los comandos utilizados (5 puntos)
 
 ## Respuesta
 
 
 # Pregunta 2.e ------------------------------------------------------------
 
-# ¿Cuánto mide la más larga y cuánto la más corta? Fundamenta. (2 puntos)
+# ¿Cuál es el valor de GC más alto y cuál el más bajo? Fundamenta. (2 puntos)
 
 ## Respuesta
 
 
 # Pregunta 2.f ------------------------------------------------------------
 
-# Guarda las secuencias traducidas en otro objeto. (3 puntos)
+# Traduce las secuencias y guárdalas en otro objeto. (3 puntos)
 
 ## Respuesta
 
 
 # Pregunta 2.g ------------------------------------------------------------
 
-# ¿Cuál es el aminoácido más frecuente? Considera para esto la secuencia total, sin distinguir entre CDS. (5 puntos)
+# ¿Cuál es el aminoácido menos abundante? Considera para esto la secuencia total, sin distinguir entre CDS. (5 puntos)
 
 ## Respuesta
 

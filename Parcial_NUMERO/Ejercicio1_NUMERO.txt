@@ -4,7 +4,7 @@
 
 # Utiliza la terminal de la Jupyter Notebook
 
-a.	Describe la serie de pasos seguidos para llegar desde la carpeta HOME hasta la carpeta donde se encuentra el archivo bicho.fasta. (2 puntos)
+a.	Explique qué comandos usaría para crear un directorio llamado CARPETA, entra en él y crea allí un archivo vacío llamado ARCHIVO. Luego, muévelo al mismo directorio en el que está CARPETA. (2 puntos) 
 
 # Respuesta
 
